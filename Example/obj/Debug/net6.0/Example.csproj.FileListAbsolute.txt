@@ -1,0 +1,16 @@
+/Users/saiphone/Desktop/Seminar06_12/Example/bin/Debug/net6.0/Example
+/Users/saiphone/Desktop/Seminar06_12/Example/bin/Debug/net6.0/Example.deps.json
+/Users/saiphone/Desktop/Seminar06_12/Example/bin/Debug/net6.0/Example.runtimeconfig.json
+/Users/saiphone/Desktop/Seminar06_12/Example/bin/Debug/net6.0/Example.dll
+/Users/saiphone/Desktop/Seminar06_12/Example/bin/Debug/net6.0/ref/Example.dll
+/Users/saiphone/Desktop/Seminar06_12/Example/bin/Debug/net6.0/Example.pdb
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/Example.GlobalUsings.g.cs
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/Example.csproj.AssemblyReference.cache
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/Example.AssemblyInfoInputs.cache
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/Example.AssemblyInfo.cs
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/Example.csproj.CoreCompileInputs.cache
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/Example.dll
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/ref/Example.dll
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/Example.pdb
+/Users/saiphone/Desktop/Seminar06_12/Example/obj/Debug/net6.0/Example.genruntimeconfig.cache
